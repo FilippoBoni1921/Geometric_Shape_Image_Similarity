@@ -56,5 +56,7 @@ The parameters to set inside the `main_src.py` file are:
 
 The option `use_geometric_family` was not included in the API so in this case we get the results that do not use the metadata
 
+**IMPORTANT:** the `model_type` used to generate the features and the one specified in the two `main_.py` files must be the same 
+
 
 
